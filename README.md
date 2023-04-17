@@ -2,7 +2,7 @@
 
 <div>
   <a href = "httpe://github.com/pedlusantiago">
-    <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=pedlusantiago&show_icons=true&bg_color=00000000&include_all_commits=true&count_private=true"/>
+    <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=pedlusantiago&show_icons=true&bg_color=00000000&include-all-commits=true&count_private=true"/>
 </div>                           
                            
 ## Minhas  Linguagens
