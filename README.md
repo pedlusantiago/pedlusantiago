@@ -1,7 +1,7 @@
 ## Eai, Já conhece o Pedro?                    
 <p align="top">
 <a href="https://github.com/pedlusantiago">
-  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedlusantiago&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>&nbsp;
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedlusantiago&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>&nbsp;
   </a>
   
 ## Minhas  Linguagens
