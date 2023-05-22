@@ -12,13 +12,8 @@
   <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedlusantiago&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>&nbsp;
   <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedlusantiago&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>  
+</p>
   
-<div style="display: inline_block"><br>
-  <img align="top" alt="Pedro-Js" height="120" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedlusantiago&layout=compact&langs_count=8&bg_color=00000000"/>
-</div>
-    
 ## Me Acompanhe
     
 <div>
