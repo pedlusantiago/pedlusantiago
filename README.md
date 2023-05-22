@@ -1,7 +1,7 @@
 ## Eai, Já conhece o Pedro?                    
 <p align="top">
 <a href="https://github.com/pedlusantiago">
-  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedlusantiago&show_icons=true&&show_icons=true&bg_color=00000000&include-all-commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedlusantiago&show_icons=true&&show_icons=true&bg_color=00000000&include_all_commits=true&count_private=true"/>&nbsp;
   </a>
   
 ## Minhas  Linguagens
@@ -17,3 +17,11 @@
 <div>
       <a href="https://instagram.com/diario.dev_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>      
+
+
+<p align="center">
+<a href="https://github.com/GoldFNX">
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GoldFNX&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>&nbsp;
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GoldFNX&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
