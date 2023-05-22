@@ -1,15 +1,13 @@
-## Eai, Já conhece o Pedro?
-
-<div>
-  <a href = "httpe://github.com/pedlusantiago">
-    <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=pedlusantiago&show_icons=true&bg_color=00000000&include-all-commits=true&count_private=true"/>
-</div>                           
-                           
-## Minhas  Linguagens
-
-<p align="center">
+## Eai, Já conhece o Pedro?                    
+<p align="top">
 <a href="https://github.com/pedlusantiago">
   <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedlusantiago&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>&nbsp;
+  </a>
+  
+## Minhas  Linguagens
+
+<p align="top">
+<a href="https://github.com/pedlusantiago">
   <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedlusantiago&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
