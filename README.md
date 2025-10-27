@@ -2,7 +2,7 @@
 Tenho 27 anos, estudo programação a 3 ano e hoje eu to pouco me fudendo.
 <p align="top"> 
 <a href="https://github.com/pedlusantiago">
-  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedlusantiago&theme=cobalt&count_private=true"/>&nbsp;
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedlusantiago&show_icons=true&theme=cobalt&count_private=true"/>&nbsp;
   </a>
   <br/>
     
