@@ -2,12 +2,12 @@
 Tenho 27 anos, estudo programação a 3 ano e hoje eu to pouco me fudendo.
 <p align="top"> 
   <a href="https://github.com/pedlusantiago">
-    <img height="130em" src="https://myversion-sigma.vercel.app/api?username=pedlusantiago&show_icons=true&theme=cobalt&count_private=true"/>&nbsp;
+    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=pedlusantiago&show_icons=true&theme=cobalt&count_private=true"/>&nbsp;
   </a>
   <br/>
 <p align="top">
   <a href="https://github.com/pedlusantiago">
-    <img height="130em" src="https://myversion-sigma.vercel.app/api/top-langs/?username=pedlusantiago&show_icons=true&theme=cobalt&count_private=true"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedlusantiago&show_icons=true&theme=cobalt&count_private=true"/>
   </a>
 </p>
   
