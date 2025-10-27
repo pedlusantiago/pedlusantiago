@@ -1,5 +1,5 @@
 ## Eai, Já conhece o Pedro?                    
-Tenho 24 anos, estudo programação a 1 ano e estou em transição de carreira.
+Tenho 27 anos, estudo programação a 3 ano e hoje eu to pouco me fudendo.
 <p align="top"> 
 <a href="https://github.com/pedlusantiago">
   <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedlusantiago&show_icons=true&&show_icons=true&bg_color=00000000&include_all_commits=true&count_private=true"/>&nbsp;
