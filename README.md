@@ -1,4 +1,4 @@
-<img align="right" height="180" src="https://github.com/pedlusantiago/pedlusantiago/blob/main/profile-pic.jpg?raw=true" alt="Pedlu Santiago" />
+<img align="right" height="180" src="https://github.com/pedlusantiago/pedlusantiago/blob/main/profile-pic.jpg?raw=true" alt="Pedlusantiago" />
 
 # Olá, eu sou Pedlu Santiago 👋
 
