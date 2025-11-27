@@ -12,7 +12,7 @@ Migrando sistemas legados para soluções robustas, escaláveis e com cara de 20
 
 <div align="left">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=pedlusantiago&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedlusantiago&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedlusantiago&count_private=true&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 ### 🔥 Meu Streak atual
