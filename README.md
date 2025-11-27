@@ -22,7 +22,7 @@ Migrando sistemas legados para soluções robustas, escaláveis e com cara de 20
 [![trophy](https://github-profile-trophy.vercel.app/?username=pedlusantiago&theme=tokyonight&no-frame=true&margin-w=15&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🚀 Tecnologias que domino e estou usando agora
-<img src="https://skillicons.dev/icons?i=delphi,python,firebird,postgresql,fastapi,docker,git,github,linux,vscode,js,html,css" />
+<img src="https://skillicons.dev/icons?i=vscode,js,ts,flutter,dart,firebird,html,css" />
 
 <br clear="both"/>
 
