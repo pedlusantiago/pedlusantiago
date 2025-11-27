@@ -1,24 +1,92 @@
 # Olá, eu sou Pedro Santiago 👋
 
 **Desenvolvedor | Especialista em Firebird + Ts + Js → IA Builder**  
+### 🤖 Linguagens e Tecnologias
+<img 
+    align="left" 
+    alt="Firebird" 
+    title="Firebird"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/462c3fd443b7dc889fa6a9fbbea38fdff0478eb0/icons/firebird/firebird-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Flutter" 
+    title="Flutter"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/flutter/flutter-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Dart" 
+    title="Dart"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/dart/dart-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+
+
+
+<br/>
+<br/>
 
 <div align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pedlusantiago&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedlusantiago&count_private=true&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pedlusantiago&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&locale=pt-br"  />
+  <br/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedlusantiago&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" />
 </div>
 
 ### 🔥 Meu Streak atual
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pedlusantiago&theme=tokyonight&hide_border=true)
 
-### 🏆 Conquistas no GitHub
-[![trophy](https://github-profile-trophy.vercel.app/?username=pedlusantiago&no-bg=true&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 🚀 Tecnologias que domino e estou usando agora
-<img src="https://skillicons.dev/icons?i=js,ts,flutter,dart,html,css" />
-
 <br clear="both"/>
-
-### 📫 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedlusantiago)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@dominio.com)  
-
