@@ -96,13 +96,12 @@
 <br/>
 <br/>
 
+<details>
+  <summary>:zap:Minhas Atividades</summary>
 <div align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pedlusantiago&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&locale=pt-br"  />
+  <img height="180" src="https://github-readme-stats-rho-three-54.vercel.app/api?username=Pedlusantiago&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true&locale=pt-br"  />
   <br/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedlusantiago&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" />
+  <img height="180" src="https://github-readme-stats-rho-three-54.vercel.app/api/top-langs/?username=Pedlusantiago&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" />
 </div>
-
-### 🔥 Meu Streak atual
-![](https://github-readme-streak-stats.herokuapp.com/?user=pedlusantiago&theme=tokyonight&hide_border=true)
-
+</details>
 <br clear="both"/>
