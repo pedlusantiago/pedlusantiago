@@ -11,7 +11,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pedlusantiago&theme=tokyonight&hide_border=true)
 
 ### 🏆 Conquistas no GitHub
-[![trophy](https://github-profile-trophy.vercel.app/?username=pedlusantiago&no-bg=true&column=3&margin-w=15&margin-h=15&no-frame=true&margin-w=15&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pedlusantiago&no-bg=true&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🚀 Tecnologias que domino e estou usando agora
 <img src="https://skillicons.dev/icons?i=js,ts,flutter,dart,html,css" />
