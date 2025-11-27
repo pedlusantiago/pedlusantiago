@@ -1,6 +1,6 @@
 # Olá, eu sou Pedro Santiago 👋
 
-**Desenvolvedor | Especialista em Firebird + Ts + Js → IA Builder**  
+**Eu invento moda e aprendo coisas todo dia | Firebird + Ts + Js → IA Builder**  
 ### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
@@ -9,6 +9,14 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/462c3fd443b7dc889fa6a9fbbea38fdff0478eb0/icons/firebird/firebird-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSharp" 
+    title="CSharp"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/csharp/csharp-original.svg" 
 />
 <img 
     align="left" 
@@ -65,6 +73,14 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Vite" 
+    title="Vite"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vitejs/vitejs-original.svg" 
 />
 <img 
     align="left" 
